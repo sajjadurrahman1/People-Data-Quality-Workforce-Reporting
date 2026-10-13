@@ -1,0 +1,601 @@
+employee_id,first_name,last_name,email,department_id,location_id,job_level,manager_id,hire_date,termination_date,employment_status,salary_band,issue_count,issue_codes,dq_status
+E1363,Mia,Werner,mia.werner363@example-company.com,4,1,Professional,E1035,2012-09-09,,Active,B5,0,,Clean
+E1133,Jonas,Koch,jonas.koch133@example-company.com,10,1,Senior,E1037,2020-07-21,,Active,B1,0,,Clean
+E1199,Paul,Lange,paul.lange199@example-company.com,8,5,Junior,E1016,2017-05-13,,Active,B5,0,,Clean
+E1054,Jan,Wolf,jan.wolf54@example-company.com,9,1,Manager,E1003,2021-10-14,,Active,B2,0,,Clean
+E1267,Lea,Weber,lea.weber267@example-company.com,4,1,Senior,E1031,2025-10-22,,Active,B5,0,,Clean
+E1132,Sara,Zimmermann,sara.zimmermann132@example-company.com,5,1,Professional,E1025,2017-08-10,,Active,B4,0,,Clean
+E1452,Lea,Schmidt,lea.schmidt452@example-company.com,2,1,Senior,E9108,2020-02-03,,Active,B5,1,DQ12,Needs review
+E1531,Lukas,Lehmann,lukas.lehmann531@example-company.com,8,1,Senior,E1050,2025-03-16,,Active,B5,0,,Clean
+E1412,Max,Huber,max.huber412@example-company.com,2,2,Senior,E1044,2020-05-09,,Active,B4,0,,Clean
+E1124,Max,Lehmann,max.lehmann124@example-company.com,5,1,Senior,E1022,2015-06-18,,Active,B1,0,,Clean
+E1360,Leon,Becker,leon.becker360@example-company.com,3,1,Professional,E1084,2022-12-25,,Active,B1,0,,Clean
+E1098,Lea,Wagner,lea.wagner98@example-company.com,4,1,Lead,E1023,2024-08-15,2025-11-26,Terminated,B5,0,,Clean
+E1492,Sophie,Wolf,sophie.wolf492@example-company.com,8,1,Lead,E1160,2021-03-06,,On Leave,B2,0,,Clean
+E1543,Clara,Koch,clara.koch543@example-company.com,5,3,Junior,E1025,2023-06-17,,Active,B4,0,,Clean
+E1284,Sophie,Werner,sophie.werner284@example-company.com,6,4,Professional,E1041,2027-10-02,,Active,B2,1,DQ06,Needs review
+E1431,Lina,Koch,lina.koch431@example-company.com,6,5,Director,E9672,2024-11-29,2026-09-30,Terminated,B2,1,DQ12,Needs review
+E1176,Mia,Schwarz,mia.schwarz176@example-company.com,8,5,Lead,E1037,2012-12-12,,Active,B5,0,,Clean
+E1542,Lukas,Neumann,lukas.neumann542@example-company.com,9,4,Senior,E1118,2022-02-24,,Active,B5,0,,Clean
+E1403,Anna,Schmidt,anna.schmidt403@example-company.com,8,1,Manager,E1100,2012-04-10,,Active,B2,0,,Clean
+E1307,Noah,Richter,noah.richter307@example-company.com,8,1,Lead,E1072,2020-01-25,,Active,B4,0,,Clean
+E1340,Nina,Lange,nina.lange340@example-company.com,9,1,Senior,E1019,2016-01-13,,Active,B2,0,,Clean
+E1108,Nina,Meyer,nina.meyer108@example-company.com,3,1,Senior,E1018,2018-01-16,,Active,B3,0,,Clean
+E1038,Laura,Wolf,laura.wolf38@example-company.com,10,5,Director,E1007,2013-08-17,,Active,B1,0,,Clean
+E1143,Paul,Lehmann,paul.lehmann143@example-company.com,8,5,Professional,E1008,2013-06-01,,Active,B4,0,,Clean
+E1356,Julia,Lehmann,,10,1,Junior,E1044,2019-01-11,,Active,B3,1,DQ01,Needs review
+E1081,Clara,Huber,clara.huber81@example-company.com,4,1,Lead,E1020,2016-06-12,,Terminated,B5,1,DQ11,Needs review
+E1277,Lea,Krueger,lea.krueger277@example-company.com,5,1,Professional,E1054,2019-04-04,2019-08-29,Terminated,B3,0,,Clean
+E1219,Ben,Hartmann,ben.hartmann219@example-company.com,7,1,Senior,E1062,2017-12-24,,Active,B2,0,,Clean
+E1571,Ben,Wolf,ben.wolf571@example-company.com,6,1,Professional,E1084,2021-08-09,,Active,B4,0,,Clean
+E1339,Erik,Koch,erik.koch339@example-company.com,7,1,Manager,E1081,2019-04-23,,Active,B2,0,,Clean
+E1011,Paul,Schmidt,paul.schmidt11@example-company.com,2,1,Manager,E1006,2019-01-28,,Active,B3,0,,Clean
+E1186,Sara,Fischer,sara.fischer186@example-company.com,7,1,Senior,E1013,2025-10-17,,Active,B1,0,,Clean
+E1032,Clara,Richter,clara.richter32@example-company.com,9,3,Professional,E1004,2022-03-16,,Active,B2,0,,Clean
+E1112,Finn,Hartmann,finn.hartmann112@example-company.com,9,1,Junior,E1026,2012-01-10,,Active,B5,0,,Clean
+E1537,Sara,Hoffmann,sara.hoffmann537@example-company.com,5,3,Manager,E1099,2016-07-03,,Active,B2,0,,Clean
+E1046,Leon,Schmidt,leon.schmidt46@example-company.com,3,1,Junior,E1001,2020-04-12,,Active,B3,0,,Clean
+E1059,Noah,Hoffmann,noah.hoffmann59@example-company.com,10,3,Professional,E1003,2021-08-22,,Active,B4,0,,Clean
+E1171,Tom,Fischer,tom.fischer171@example-company.com,7,1,Professional,E1031,,,Active,B3,1,DQ02,Needs review
+E1488,Lina,Becker,lina.becker488@example-company.com,4,1,Senior,E1117,2019-07-12,,Active,B3,0,,Clean
+E1288,Leon,Schmidt,leon.schmidt288@example-company.com,8,1,Professional,E1072,2013-07-19,,On Leave,B2,0,,Clean
+E1378,Laura,Braun,laura.braun378@example-company.com,7,1,Senior,E1058,2012-01-06,,On Leave,B2,0,,Clean
+E1049,Ida,Zimmermann,ida.zimmermann49@example-company.com,6,4,Professional,E1001,2020-06-15,2019-03-01,Terminated,B2,1,DQ09,Needs review
+E1507,Sophie,Krause,sophie.krause507@example-company.com,9,5,Professional,E1003,2016-06-24,,Active,B4,0,,Clean
+E1343,Nina,Schwarz,nina.schwarz343@example-company.com,7,2,Lead,E1082,2023-12-26,,Active,B3,0,,Clean
+E1355,Nina,Weber,nina.weber355@example-company.com,6,1,Junior,E1021,2024-01-16,,Active,B4,0,,Clean
+E1574,Finn,Wagner,finn.wagner574@example-company.com,2,3,Manager,E1071,2024-01-30,,Active,B5,0,,Clean
+E1361,Finn,Neumann,finn.neumann361@example-company.com,4,4,Manager,E1038,2012-03-19,,Active,B5,0,,Clean
+E1103,Eva,Braun,eva.braun103@example-company.com,0,4,Senior,E1005,2013-08-06,,Active,B2,1,DQ14,Needs review
+E1518,Eva,Maier,eva.maier518@example-company.com,10,3,Professional,E1096,2023-10-09,,Active,B3,0,,Clean
+E1499,Noah,Braun,noah.braun499@example-company.com,6,1,Senior,E1137,2023-09-02,,Active,B2,0,,Clean
+E1225,Tom,Braun,tom.braun225@example-company.com,2,2,Senior,E1023,2020-04-26,,Active,B4,0,,Clean
+E1265,Lina,Wagner,lina.wagner265_at_example-company.com,2,1,Professional,E1013,2018-07-07,,Active,B3,1,DQ07,Needs review
+E1240,Max,Krause,max.krause240@example-company.com,9,1,Manager,E1034,2026-05-01,,Active,B4,0,,Clean
+E1440,Lea,Becker,lea.becker440@example-company.com,7,4,Lead,E1040,2012-01-15,2018-10-16,Terminated,B5,0,,Clean
+E1318,Clara,Braun,clara.braun318@example-company.com,4,1,Lead,E1074,2024-09-02,,Active,B1,0,,Clean
+E1358,Hannah,Weber,hannah.weber358@example-company.com,3,1,Junior,E1041,2017-05-08,,Active,B4,0,,Clean
+E1125,Finn,Wolf,finn.wolf125@example-company.com,6,2,Manager,E1008,2023-12-20,,Active,B4,0,,Clean
+E1131,Ida,Klein,ida.klein131@example-company.com,8,5,Director,E1029,2024-04-04,,Active,B3,0,,Clean
+E1324,Paul,Werner,paul.werner324@example-company.com,9,1,Lead,E1100,2020-09-22,,Active,B2,0,,Clean
+E1572,Emma,Neumann,,6,4,Professional,E1004,2015-01-05,,Active,B3,1,DQ01,Needs review
+E1273,Noah,Braun,noah.braun273@example-company.com,8,4,Junior,E9764,2026-05-20,,Active,B5,1,DQ12,Needs review
+E1470,Lina,Wolf,lina.wolf470@example-company.com,10,2,Junior,E1057,2018-01-16,,Active,B2,0,,Clean
+E1117,Tim,Koch,tim.koch117@example-company.com,7,1,Senior,E1027,2022-03-30,,Active,B2,0,,Clean
+E1113,Ben,Krause,ben.krause113@example-company.com,99,1,Senior,E1037,2023-03-07,,Active,B3,1,DQ14,Needs review
+E1252,Sophie,Krause,sophie.krause252@example-company.com,1,1,Junior,E1055,2023-06-02,,Active,B3,0,,Clean
+E1362,Sara,Krueger,sara.krueger362@example-company.com,7,3,Professional,E1091,2021-03-05,,Active,B2,0,,Clean
+E1346,Jonas,Meyer,jonas.meyer346@example-company.com,9,3,Senior,E1054,2014-03-18,,Active,B5,0,,Clean
+E1015,David,Fischer,david.fischer15@example-company.com,8,2,Director,E1004,2020-08-18,,Terminated,B1,1,DQ11,Needs review
+E1479,Paul,Richter,paul.richter479@example-company.com,5,3,Senior,E1137,2025-08-23,,Active,B3,0,,Clean
+E1062,Paul,Krueger,paul.krueger62@example-company.com,8,1,Senior,E1013,2025-09-16,2026-09-30,Terminated,B2,0,,Clean
+E1271,Omar,Becker,omar.becker271@example-company.com,1,5,Professional,E1026,2021-05-16,2023-09-03,Terminated,B4,0,,Clean
+E1082,Erik,Weber,erik.weber82@example-company.com,6,2,Senior,E1017,2024-09-10,,Active,B1,0,,Clean
+E1195,Felix,Hoffmann,,4,1,Junior,E1032,2019-08-31,2025-06-11,Terminated,B1,1,DQ01,Needs review
+E1411,Tim,Schmidt,tim.schmidt411@example-company.com,2,1,Professional,E1135,2028-07-20,,Active,B5,1,DQ06,Needs review
+E1122,Jan,Krueger,jan.krueger122@example-company.com,3,1,Junior,E9425,2020-07-20,,Active,B5,1,DQ12,Needs review
+E1379,Ida,Lehmann,ida.lehmann379@example-company.com,5,1,Professional,E1053,2018-10-08,,Active,B1,0,,Clean
+E1074,David,Lange,david.lange74@example-company.com,1,1,Professional,E1007,2020-06-15,2019-03-01,Terminated,B4,1,DQ09,Needs review
+E1589,Lea,Schmidt,lea.schmidt589@example-company.com,3,2,Professional,E1064,2015-09-24,,Active,B5,0,,Clean
+E1158,Julia,Klein,,7,1,Senior,E1045,2022-03-05,,Active,B5,1,DQ01,Needs review
+E1068,Mia,Huber,mia.huber68@example-company.com,6,1,Senior,E9254,2018-05-29,,Active,B2,1,DQ12,Needs review
+E1170,Jan,Wolf,jan.wolf170@example-company.com,1,1,Lead,E1012,2024-09-23,,Active,B1,0,,Clean
+E1102,Anna,Zimmermann,anna.zimmermann102@example-company.com,8,1,Professional,E1001,2022-02-07,,Active,B3,0,,Clean
+E1255,Leon,Krueger,leon.krueger255@example-company.com,1,1,Senior,E1048,2024-08-16,,Terminated,B4,1,DQ11,Needs review
+E1215,Sara,Becker,sara.becker215@example-company.com,8,1,Professional,E1017,2015-01-09,,Active,B2,0,,Clean
+E1524,Jan,Lehmann,jan.lehmann524@example-company.com,,1,Senior,E1015,2012-05-25,,Active,B1,1,DQ03,Needs review
+E1269,Anna,Lange,anna.lange269@example-company.com,8,1,Junior,E1056,2015-07-17,,Active,B3,0,,Clean
+E1207,Maria,Wagner,maria.wagner207@example-company.com,7,1,Professional,E1064,2024-04-22,2026-09-30,Terminated,B3,0,,Clean
+E1212,Lukas,Lehmann,lukas.lehmann212@example-company.com,5,3,Professional,E1036,2020-09-04,,On Leave,B1,0,,Clean
+E1104,Max,Weber,max.weber104@example-company.com,3,5,Lead,E1006,2020-06-15,2019-03-01,Terminated,B1,1,DQ09,Needs review
+E1330,Lina,Richter,lina.richter330@example-company.com,3,1,Senior,E1063,2014-04-17,,Active,B5,0,,Clean
+E1410,Hannah,Meyer,hannah.meyer410@example-company.com,2,1,Director,E1034,2020-06-09,2024-03-19,Terminated,B4,0,,Clean
+E1160,Max,Peters,max.peters160@example-company.com,6,3,Professional,E1016,2014-02-17,,Active,B2,0,,Clean
+E1092,Jan,Hoffmann,jan.hoffmann92@example-company.com,9,5,Senior,E1021,2019-01-28,,Active,B2,0,,Clean
+E1292,Leon,Schwarz,leon.schwarz292@example-company.com,6,1,Junior,E1013,,,Active,B1,1,DQ02,Needs review
+E1145,Lea,Schwarz,lea.schwarz145@example-company.com,9,1,Senior,E1005,2022-03-05,2024-11-30,Active,B2,1,DQ10,Needs review
+E1028,Lukas,Schwarz,lukas.schwarz28@example-company.com,2,1,Junior,E1006,2019-08-11,,Active,B4,0,,Clean
+E1332,Finn,Schwarz,finn.schwarz332@example-company.com,7,4,Senior,E1095,2012-04-11,,Active,B5,0,,Clean
+E1107,Ida,Zimmermann,ida.zimmermann107@example-company.com,1,1,Manager,E1023,2019-03-25,,Active,B5,0,,Clean
+E1374,Laura,Krueger,laura.krueger374@example-company.com,2,3,Professional,E1096,2019-05-05,,Active,B3,0,,Clean
+E1216,Ida,Schmidt,ida.schmidt216@example-company.com,7,5,Senior,E1007,2019-01-29,2025-03-09,Terminated,B3,0,,Clean
+E1211,Ben,Fischer,ben.fischer211@example-company.com,9,2,Professional,E1066,2023-10-19,,Active,B4,0,,Clean
+E1106,Eva,Klein,eva.klein106@example-company.com,9,1,Junior,E1023,2021-01-10,2026-09-30,Terminated,B1,0,,Clean
+E1465,Nina,Werner,nina.werner465@example-company.com,2,4,Lead,E1102,2014-03-31,2020-11-18,Terminated,B3,0,,Clean
+E1599,Julia,Weber,julia.weber599@example-company.com,4,3,Professional,E1016,2023-08-28,,Active,B3,0,,Clean
+E1535,Emma,Schwarz,emma.schwarz535@example-company.com,8,4,Junior,E1032,2019-09-09,,Terminated,B5,1,DQ11,Needs review
+E1461,Felix,Becker,felix.becker461@example-company.com,3,1,Junior,E1049,2016-10-01,,Active,B4,0,,Clean
+E1044,Sara,Zimmermann,sara.zimmermann44@example-company.com,6,4,Senior,E1011,2018-03-16,,Active,B3,0,,Clean
+E1244,Laura,Koch,laura.koch244@example-company.com,5,5,Lead,E1031,2015-02-28,,Active,B4,0,,Clean
+E1559,Erik,Richter,erik.richter559@example-company.com,4,5,Professional,E1124,2024-07-07,,Active,B4,0,,Clean
+E1365,Emma,Lange,emma.lange365@example-company.com,1,3,Professional,E1083,2020-03-24,,Active,B2,0,,Clean
+E1138,Lea,Lange,,5,4,Professional,E1044,2020-03-16,,Active,B4,1,DQ01,Needs review
+E1178,Felix,Krause,felix.krause178@example-company.com,2,1,Junior,E1012,2022-04-27,2026-09-15,Terminated,B4,0,,Clean
+E1029,Lea,Zimmermann,lea.zimmermann29@example-company.com,4,4,Junior,E1007,2016-02-12,,Active,B5,0,,Clean
+E1297,Noah,Wagner,noah.wagner297@example-company.com,5,1,Senior,E1033,2023-09-10,,Active,B5,0,,Clean
+E1181,Jan,Lehmann,jan.lehmann181@example-company.com,3,1,Junior,E1060,2015-04-24,,Active,B2,0,,Clean
+E1130,Tim,Werner,tim.werner130@example-company.com,5,1,Senior,E1017,2015-03-18,,Active,B4,0,,Clean
+E1480,Max,Schwarz,max.schwarz480@example-company.com,4,1,Senior,E1069,2019-10-27,,Active,B5,0,,Clean
+E1367,Ben,Fischer,,4,1,Senior,E1035,2021-11-05,2023-06-28,Terminated,B3,1,DQ01,Needs review
+E1193,Lea,Krause,lea.krause193@example-company.com,7,2,Professional,E1030,2013-11-25,,Active,B2,0,,Clean
+E1430,Felix,Weber,felix.weber430@example-company.com,5,2,Lead,E1089,2017-07-23,,Active,B1,0,,Clean
+E1341,Laura,Klein,laura.klein341@example-company.com,7,3,Junior,E1112,2013-07-20,,Active,B3,0,,Clean
+E1503,David,Schmidt,david.schmidt503@example-company.com,2,3,Junior,E1073,2025-04-27,,On Leave,B1,0,,Clean
+E1128,Lukas,Wolf,lukas.wolf128@example-company.com,6,1,Professional,E1035,2013-04-04,,Active,B4,0,,Clean
+E1327,Tim,Koch,tim.koch327@example-company.com,7,1,Senior,E1042,2019-12-24,,Active,B4,0,,Clean
+E1041,Anna,Maier,,2,5,Junior,E1009,2024-06-09,,Active,B1,1,DQ01,Needs review
+E1329,Jan,Schwarz,jan.schwarz329@example-company.com,2,1,Professional,E1066,2019-02-07,,Active,B3,0,,Clean
+E1238,Lea,Becker,lea.becker238@example-company.com,10,1,Manager,E1047,2026-01-02,,Active,B1,0,,Clean
+E1017,Jonas,Klein,jonas.klein17@example-company.com,1,5,Manager,E1009,2021-10-01,,Active,B3,0,,Clean
+E1009,Eva,Maier,eva.maier9@example-company.com,3,2,Professional,,2026-07-14,,Active,B4,0,,Clean
+E1316,Anna,Hartmann,anna.hartmann316@example-company.com,3,1,Junior,E1078,2021-08-28,,Active,B2,0,,Clean
+E1322,Tom,Richter,tom.richter322@example-company.com,1,1,Lead,E1069,2024-03-06,,Active,B1,0,,Clean
+E1489,Max,Wolf,max.wolf489@example-company.com,5,1,Junior,E1159,2020-05-02,,Active,B1,0,,Clean
+E1319,Sara,Lehmann,sara.lehmann319@example-company.com,7,1,Professional,E1074,2028-02-07,,Active,B1,1,DQ06,Needs review
+E1500,Hannah,Krueger,,3,5,Manager,E1006,2020-01-21,,Active,B4,1,DQ01,Needs review
+E1357,Finn,Braun,finn.braun357@example-company.com,5,5,Senior,E1030,2025-11-05,,Active,B2,0,,Clean
+E1304,Jan,Maier,jan.maier304@example-company.com,4,4,Professional,E1034,2024-07-14,,Active,B1,0,,Clean
+E1080,Lina,Becker,lina.becker80@example-company.com,1,5,Senior,E1026,2018-12-23,,Active,B4,0,,Clean
+E1439,Eva,Krause,eva.krause439@example-company.com,10,4,Professional,E1067,2020-01-02,,Active,B3,0,,Clean
+E1554,Tom,Wolf,tom.wolf554@example-company.com,7,1,Senior,E1011,2020-07-21,2022-02-25,Terminated,B1,0,,Clean
+E1248,Noah,Lange,noah.lange248@example-company.com,3,4,Senior,E1044,2012-03-07,2017-05-05,Terminated,B4,0,,Clean
+E1135,Omar,Krause,omar.krause135@example-company.com,4,2,Professional,E1016,2023-02-21,2026-09-05,Terminated,B2,0,,Clean
+E1205,Hannah,Weber,hannah.weber205@example-company.com,3,1,Professional,E1048,2026-07-30,,Active,B4,0,,Clean
+E1058,Tom,Peters,tom.peters58@example-company.com,5,1,Lead,E1012,2015-11-26,,Active,B3,0,,Clean
+E1156,Max,Maier,max.maier156@example-company.com,8,1,Junior,E1035,2014-06-03,,Active,B5,0,,Clean
+E1230,Finn,Becker,finn.becker230@example-company.com,6,2,Junior,E1041,2026-04-21,,Active,B2,0,,Clean
+E1405,Emma,Fischer,emma.fischer405@example-company.com,9,3,Junior,E1059,2024-10-26,,Active,B2,0,,Clean
+E1334,Tim,Wagner,tim.wagner334@example-company.com,5,1,Professional,E1011,2013-06-02,,Active,B1,0,,Clean
+E1056,Ben,Zimmermann,ben.zimmermann56@example-company.com,10,1,Lead,E1009,2013-07-27,2017-08-07,Terminated,B3,0,,Clean
+E1456,Laura,Braun,laura.braun456@example-company.com,5,2,Junior,E1075,2017-11-27,,Active,B1,0,,Clean
+E1459,Ida,Koch,ida.koch459@example-company.com,7,5,Senior,E1141,2022-09-06,,Active,B5,0,,Clean
+E1285,Eva,Werner,eva.werner285@example-company.com,9,1,Junior,E1063,2022-12-18,,Active,B2,0,,Clean
+E1526,Hannah,Neumann,hannah.neumann526@example-company.com,8,1,Lead,E1101,2013-03-20,,Active,B5,0,,Clean
+E1446,Erik,Werner,erik.werner446@example-company.com,4,1,Junior,E1089,2026-08-07,,Active,B1,0,,Clean
+E1234,Laura,Maier,laura.maier234@example-company.com,,2,Junior,E1049,2023-08-09,,Active,B2,1,DQ03,Needs review
+E1127,Jan,Fischer,jan.fischer127@example-company.com,2,1,Senior,E1017,2021-09-25,,On Leave,B1,0,,Clean
+E1313,Max,Wagner,max.wagner313@example-company.com,3,1,Senior,E1016,2026-02-22,,Active,B3,0,,Clean
+E1335,Ben,Richter,ben.richter335@example-company.com,8,2,Junior,E1049,2017-07-13,,Active,B1,0,,Clean
+E1233,Julia,Zimmermann,julia.zimmermann233@example-company.com,3,5,Senior,E1027,2021-03-08,2022-05-04,Terminated,B4,0,,Clean
+E1060,Tom,Hoffmann,tom.hoffmann60_at_example-company.com,3,3,Professional,E1002,2023-06-19,,Active,B5,1,DQ07,Needs review
+E1525,Erik,Krause,erik.krause525@example-company.com,9,2,Senior,E1069,2025-11-19,,Active,B4,0,,Clean
+E1154,Laura,Neumann,laura.neumann154@example-company.com,8,2,Manager,E1023,2023-07-06,,Active,B1,0,,Clean
+E1295,Paul,Lange,paul.lange295@example-company.com,1,1,Director,E1008,2016-11-14,,Active,B2,0,,Clean
+E1359,Max,Krause,max.krause359@example-company.com,7,1,Senior,E9183,2015-02-03,,Active,B2,1,DQ12,Needs review
+E1162,Erik,Wagner,erik.wagner162_at_example-company.com,9,2,Senior,E1006,2024-06-23,,Active,B4,1,DQ07,Needs review
+E1372,Lina,Maier,lina.maier372@example-company.com,10,2,Senior,E1121,2020-10-22,,Active,B4,0,,Clean
+E1425,David,Koch,david.koch425@example-company.com,7,4,Professional,E1425,2026-07-08,,Active,B1,1,DQ13,Needs review
+E1331,Max,Weber,max.weber331@example-company.com,9,1,Senior,E1100,2012-08-03,,Active,B3,0,,Clean
+E1337,Hannah,Zimmermann,hannah.zimmermann337@example-company.com,11,1,Senior,E1037,2026-08-08,,On Leave,B2,1,DQ14,Needs review
+E1210,Anna,Krause,anna.krause210@example-company.com,7,1,Senior,E1024,2019-11-30,,Active,B5,0,,Clean
+E1115,Leon,Meyer,leon.meyer115@example-company.com,4,5,Manager,E1017,2024-05-21,,Active,B4,0,,Clean
+E1390,Sara,Schmidt,sara.schmidt390@example-company.com,2,1,Senior,E1102,2017-05-14,,Active,B1,0,,Clean
+E1565,Lea,Weber,lea.weber565@example-company.com,10,1,Senior,E1171,2012-12-08,,Active,B1,0,,Clean
+E1189,Eva,Braun,eva.braun189@example-company.com,10,1,Professional,E1016,2021-11-08,,Active,B3,0,,Clean
+E1547,Jan,Hartmann,jan.hartmann547@example-company.com,7,1,Professional,E1122,2014-09-04,,Active,B2,0,,Clean
+E1419,Anna,Schwarz,anna.schwarz419@example-company.com,9,1,Professional,E1139,2022-02-21,,Active,B2,0,,Clean
+E1487,Noah,Becker,noah.becker487@example-company.com,2,1,Senior,E1029,2024-07-09,,Active,B5,0,,Clean
+E1394,Max,Huber,max.huber394@example-company.com,9,2,Junior,E1122,2021-01-08,,Active,B1,0,,Clean
+E1594,David,Schmidt,david.schmidt594@example-company.com,2,1,Senior,E1159,2023-12-02,,Active,B5,0,,Clean
+E1055,Emma,Schmidt,emma.schmidt55@example-company.com,9,3,Manager,E1003,2021-10-12,,Active,B2,0,,Clean
+E1447,Noah,Meyer,noah.meyer447@example-company.com,2,1,Junior,E1074,2019-02-23,,Active,B4,0,,Clean
+E1202,Eva,Hartmann,eva.hartmann202@example-company.com,3,1,Manager,E1001,2028-06-23,,Active,B2,1,DQ06,Needs review
+E1370,Noah,Werner,noah.werner370@example-company.com,2,1,Lead,E1100,2017-12-30,2024-02-04,Terminated,B4,0,,Clean
+E1402,Ben,Becker,ben.becker402@example-company.com,10,3,Junior,E1022,2017-09-20,,Active,B5,0,,Clean
+E1325,Erik,Huber,,6,1,Professional,E1037,2013-10-04,,Active,B1,1,DQ01,Needs review
+E1025,Mia,Hartmann,mia.hartmann25@example-company.com,8,1,Junior,E1005,2017-05-03,,Active,B5,0,,Clean
+E1548,Nina,Richter,nina.richter548@example-company.com,3,1,Manager,E1100,2027-08-13,,Active,B5,1,DQ06,Needs review
+E1513,Emma,Peters,emma.peters513@example-company.com,6,1,Professional,E1056,2014-01-31,,Active,B4,0,,Clean
+E1491,Jonas,Maier,jonas.maier491@example-company.com,7,1,Lead,E1070,2020-07-23,,Active,B2,0,,Clean
+E1019,Leon,Hartmann,leon.hartmann19@example-company.com,8,1,Manager,E1008,2012-01-05,,Active,B3,0,,Clean
+E1371,Omar,Schmidt,omar.schmidt371@example-company.com,3,1,Senior,E1111,,2019-12-20,Terminated,B2,1,DQ02,Needs review
+E1444,Eva,Fischer,eva.fischer444@example-company.com,2,3,Junior,E1134,2019-11-11,,Active,B4,0,,Clean
+E1088,Eva,Richter,eva.richter88@example-company.com,4,1,Senior,E1022,2024-06-19,,Active,B4,0,,Clean
+E1400,Lina,Meyer,lina.meyer400@example-company.com,5,2,Professional,E1068,2019-07-07,,Active,B5,0,,Clean
+E1231,Erik,Wagner,erik.wagner231@example-company.com,1,1,Senior,E1002,2017-04-23,,Active,B4,0,,Clean
+E1532,Lea,Krueger,lea.krueger532_at_example-company.com,1,2,Professional,E1065,2012-02-05,,Active,B5,1,DQ07,Needs review
+E1392,Leon,Maier,leon.maier392@example-company.com,2,1,Junior,E1025,2015-11-16,,Active,B3,0,,Clean
+E1169,Mia,Peters,mia.peters169@example-company.com,7,1,Junior,E1036,2023-11-24,,Active,B3,0,,Clean
+E1052,Lina,Richter,lina.richter52@example-company.com,7,3,Lead,E1016,2019-11-16,,Active,B3,0,,Clean
+E1467,Emma,Schwarz,emma.schwarz467@example-company.com,7,1,Manager,E1042,2015-03-24,,Active,B3,0,,Clean
+E1596,Max,Koch,max.koch596@example-company.com,7,1,Lead,E1195,2022-10-24,2024-11-30,Active,B5,1,DQ10,Needs review
+E1187,Laura,Werner,laura.werner187@example-company.com,10,1,Junior,E1016,2026-08-14,,Active,B1,0,,Clean
+E1471,Omar,Zimmermann,omar.zimmermann471@example-company.com,6,4,Senior,E1068,2022-11-12,,Active,B2,0,,Clean
+E1194,Tom,Huber,tom.huber194@example-company.com,7,2,Junior,E1026,2023-10-22,,Active,B3,0,,Clean
+E1536,Eva,Peters,eva.peters536@example-company.com,9,4,Senior,E1064,2023-06-28,,Active,B5,0,,Clean
+E1031,Felix,Zimmermann,felix.zimmermann31@example-company.com,7,5,Junior,E1002,2022-11-22,,Active,B1,0,,Clean
+E1067,Laura,Richter,laura.richter67@example-company.com,9,1,Professional,E1020,2017-07-18,2020-12-24,Terminated,B4,0,,Clean
+E1198,Jan,Braun,,4,5,Senior,E1014,2012-12-23,,Active,B4,1,DQ01,Needs review
+E1305,Sophie,Hoffmann,sophie.hoffmann305@example-company.com,8,5,Senior,E1047,2014-08-19,,Active,B2,0,,Clean
+E1580,Paul,Fischer,paul.fischer580@example-company.com,1,3,Senior,E1011,2017-12-05,,Active,B3,0,,Clean
+E1478,Finn,Maier,finn.maier478@example-company.com,3,2,Senior,E1073,,,Active,B1,1,DQ02,Needs review
+E1486,Hannah,Peters,hannah.peters486@example-company.com,8,5,Senior,E1075,2016-12-26,,Active,B5,0,,Clean
+E1590,Sara,Meyer,sara.meyer590_at_example-company.com,8,2,Professional,E1041,2018-05-11,2021-02-11,Terminated,B4,1,DQ07,Needs review
+E1311,Laura,Becker,laura.becker311@example-company.com,9,1,Manager,E1003,2019-11-25,,Active,B5,0,,Clean
+E1515,Finn,Becker,finn.becker515@example-company.com,10,1,Senior,E1108,2014-04-29,,Active,B4,0,,Clean
+E1016,Tom,Peters,tom.peters16@example-company.com,9,3,Lead,E1007,2014-07-27,,Active,B3,0,,Clean
+E1320,Eva,Becker,eva.becker320@example-company.com,7,2,Professional,E1084,2013-11-08,,Active,B1,0,,Clean
+E1428,Omar,Werner,omar.werner428@example-company.com,5,1,Professional,E1137,2023-04-08,,Active,B2,0,,Clean
+E1289,Lina,Lehmann,lina.lehmann289@example-company.com,7,1,Manager,E1073,2026-06-27,2026-09-30,Terminated,B4,0,,Clean
+E1458,Lukas,Schwarz,lukas.schwarz458@example-company.com,9,3,Manager,E1002,2023-09-20,,Active,B5,0,,Clean
+E1569,Tim,Wolf,tim.wolf569@example-company.com,4,1,Senior,E1163,2020-01-04,,Active,B2,0,,Clean
+E1469,Noah,Richter,noah.richter469@example-company.com,4,1,Director,E1097,2023-01-10,2024-06-15,Terminated,B4,0,,Clean
+E1236,Ben,Hartmann,ben.hartmann236@example-company.com,4,2,Senior,E1013,2018-05-15,2021-07-04,Terminated,B2,0,,Clean
+E1136,David,Richter,david.richter136@example-company.com,1,1,Professional,E1022,2015-01-25,,Active,B5,0,,Clean
+E1270,Hannah,Klein,hannah.klein270@example-company.com,2,3,Professional,E1049,2026-06-27,,Active,B1,0,,Clean
+E1493,Lina,Fischer,lina.fischer493@example-company.com,3,1,Junior,E1126,2022-12-08,,Active,B4,0,,Clean
+E1429,Anna,Richter,anna.richter429@example-company.com,8,2,Lead,E1080,2013-04-24,,Active,B2,0,,Clean
+E1563,Maria,Maier,maria.maier563@example-company.com,9,1,Senior,E1093,2012-09-09,,Active,B5,0,,Clean
+E1245,Paul,Becker,paul.becker245@example-company.com,4,3,Professional,E1035,2019-05-06,2023-03-06,Terminated,B5,0,,Clean
+E1519,Julia,Hartmann,julia.hartmann519@example-company.com,4,1,Senior,E1119,2025-11-12,,Active,B4,0,,Clean
+E1109,Felix,Werner,felix.werner109@example-company.com,8,5,Professional,E1015,2021-10-10,,Active,B4,0,,Clean
+E1581,Clara,Krueger,,6,1,Manager,E1149,2022-03-13,2022-12-21,Terminated,B3,1,DQ01,Needs review
+E1272,Felix,Peters,felix.peters272@example-company.com,5,2,Junior,E1019,2018-06-29,2018-12-03,Terminated,B3,0,,Clean
+E1105,Lukas,Becker,lukas.becker105@example-company.com,10,5,Professional,E1019,2018-11-24,,Active,B4,0,,Clean
+E1351,Finn,Wolf,finn.wolf351@example-company.com,3,5,Senior,E1109,2026-07-14,,Active,B5,0,,Clean
+E1457,Mia,Maier,mia.maier457@example-company.com,7,5,Senior,E1060,2019-09-17,,Active,B5,0,,Clean
+E1228,Noah,Huber,noah.huber228@example-company.com,3,4,Professional,E1067,2023-01-06,,Active,B4,0,,Clean
+E1026,Nina,Krueger,nina.krueger26@example-company.com,7,1,Junior,E1005,2017-06-13,,Active,B4,0,,Clean
+E1137,Ben,Peters,ben.peters137@example-company.com,5,1,Professional,E1030,2014-12-12,,Active,B2,0,,Clean
+E1050,Emma,Becker,emma.becker50@example-company.com,1,4,Professional,E1003,2014-06-04,,Active,B4,0,,Clean
+E1584,Ben,Neumann,ben.neumann584@example-company.com,10,1,Manager,E1177,2022-12-02,,Active,B4,0,,Clean
+E1242,Tim,Braun,tim.braun242@example-company.com,3,1,Senior,E1071,2016-07-29,,Terminated,B3,1,DQ11,Needs review
+E1175,Felix,Wagner,felix.wagner175@example-company.com,4,2,Lead,E1058,2020-07-11,,Active,B3,0,,Clean
+E1047,Ida,Schmidt,ida.schmidt47@example-company.com,4,3,Professional,E1003,2020-01-10,,Active,B5,0,,Clean
+E1281,Tim,Wagner,tim.wagner281@example-company.com,10,1,Senior,E1067,2022-03-16,,Active,B4,0,,Clean
+E1204,Lukas,Schwarz,lukas.schwarz204@example-company.com,7,5,Professional,E1062,2023-04-05,,Active,B1,0,,Clean
+E1448,Felix,Peters,felix.peters448@example-company.com,2,1,Director,E1121,2013-09-06,,Active,B4,0,,Clean
+E1555,Omar,Hartmann,omar.hartmann555@example-company.com,9,1,Junior,E1141,2020-05-29,,Active,B2,0,,Clean
+E1084,Sara,Braun,sara.braun84@example-company.com,9,5,Professional,E1023,2015-06-07,,Active,B5,0,,Clean
+E1119,Maria,Meyer,maria.meyer119@example-company.com,10,2,Senior,E1007,2018-05-06,2024-11-30,Active,B2,1,DQ10,Needs review
+E1468,Eva,Koch,eva.koch468@example-company.com,5,4,Junior,E1100,2013-02-07,,Active,B3,0,,Clean
+E1167,Anna,Becker,anna.becker167_at_example-company.com,5,5,Professional,E1022,2018-02-16,,Active,B2,1,DQ07,Needs review
+E1551,Max,Lange,max.lange551@example-company.com,6,1,Professional,E1083,2024-01-17,,Active,B3,0,,Clean
+E1190,Clara,Zimmermann,clara.zimmermann190@example-company.com,1,4,Senior,E1056,2019-08-03,,Active,B1,0,,Clean
+E1564,Noah,Lehmann,noah.lehmann564@example-company.com,6,5,Junior,E1014,2015-03-26,,Terminated,B5,1,DQ11,Needs review
+E1516,Felix,Krause,felix.krause516@example-company.com,10,1,Senior,E1080,2020-07-07,,Active,B2,0,,Clean
+E1093,Sophie,Peters,sophie.peters93@example-company.com,10,5,Senior,E9571,2022-11-10,,Active,B3,1,DQ12,Needs review
+E1262,David,Krueger,david.krueger262@example-company.com,9,1,Manager,E1017,2016-04-24,2019-10-08,Terminated,B3,0,,Clean
+E1139,Erik,Klein,erik.klein139@example-company.com,8,5,Junior,E1030,2019-08-06,,Active,B2,0,,Clean
+E1057,Julia,Klein,julia.klein57@example-company.com,5,2,Junior,E1008,2021-02-27,,Terminated,B4,1,DQ11,Needs review
+E1398,Jonas,Meyer,jonas.meyer398@example-company.com,3,1,Professional,E1022,2027-04-05,,Active,B5,1,DQ06,Needs review
+E1089,Leon,Koch,leon.koch89@example-company.com,8,1,Junior,E1002,2022-09-05,,Active,B3,0,,Clean
+E1407,Hannah,Fischer,hannah.fischer407@example-company.com,11,1,Senior,E1073,2024-05-27,,Active,B3,1,DQ14,Needs review
+E1348,Tim,Weber,tim.weber348@example-company.com,2,1,Manager,E1079,2018-08-17,,Active,B2,0,,Clean
+E1140,Finn,Maier,finn.maier140@example-company.com,6,1,Professional,E1038,2020-11-29,2026-09-30,Terminated,B3,0,,Clean
+E1294,Lukas,Braun,lukas.braun294@example-company.com,1,1,Junior,E1021,2025-05-29,,Active,B4,0,,Clean
+E1353,Sara,Becker,sara.becker353@example-company.com,7,1,Senior,E1010,2020-06-15,2019-03-01,Terminated,B2,1,DQ09,Needs review
+E1024,Paul,Werner,paul.werner24@example-company.com,1,1,Manager,E1008,2016-12-09,,Active,B3,0,,Clean
+E1165,Ben,Weber,ben.weber165@example-company.com,7,4,Director,E1048,,,Active,B5,1,DQ02,Needs review
+E1585,Felix,Koch,felix.koch585@example-company.com,5,1,Junior,E1153,2013-09-23,,Active,B3,0,,Clean
+E1566,Noah,Hoffmann,noah.hoffmann566@example-company.com,9,1,Junior,E1056,,,Active,B5,1,DQ02,Needs review
+E1129,Nina,Maier,,2,2,Professional,E1037,2016-01-15,,Active,B2,1,DQ01,Needs review
+E1350,Laura,Peters,laura.peters350@example-company.com,5,1,Senior,E1350,2022-02-23,,Active,B1,1,DQ13,Needs review
+E1241,Paul,Maier,paul.maier241@example-company.com,2,3,Junior,E1024,2021-02-08,,Active,B4,0,,Clean
+E1323,Sophie,Werner,sophie.werner323@example-company.com,7,5,Professional,E1023,2015-03-27,,Active,B5,0,,Clean
+E1416,Leon,Neumann,leon.neumann416@example-company.com,8,1,Junior,E1084,2016-08-27,,Active,B2,0,,Clean
+E1263,Lina,Klein,lina.klein263@example-company.com,8,1,Professional,E1074,2016-08-25,,Active,B3,0,,Clean
+E1099,David,Krause,david.krause99@example-company.com,7,1,Professional,E1026,2017-01-22,,Active,B5,0,,Clean
+E1474,Emma,Neumann,emma.neumann474@example-company.com,2,3,Professional,E1062,2022-05-30,,Active,B4,0,,Clean
+E1450,Hannah,Hoffmann,,9,3,Senior,E1003,2016-04-05,,Active,B3,1,DQ01,Needs review
+E1544,Clara,Zimmermann,clara.zimmermann544@example-company.com,1,3,Professional,E1134,2019-01-05,2024-11-30,Active,B4,1,DQ10,Needs review
+E1443,Maria,Huber,maria.huber443@example-company.com,6,1,Professional,E1001,2026-05-02,,Active,B2,0,,Clean
+E1203,Maria,Zimmermann,maria.zimmermann203@example-company.com,8,4,Manager,E1006,2014-01-21,2024-11-30,Active,B4,1,DQ10,Needs review
+E1004,Lina,Becker,lina.becker4@example-company.com,3,1,Lead,,2021-06-24,,Active,B1,0,,Clean
+E1377,Ida,Maier,ida.maier377_at_example-company.com,8,1,Manager,E1124,2013-01-31,,Active,B2,1,DQ07,Needs review
+E1435,Julia,Krueger,julia.krueger435@example-company.com,10,1,Junior,E1114,2012-01-06,2024-11-30,Active,B2,1,DQ10,Needs review
+E1463,Mia,Schwarz,mia.schwarz463@example-company.com,6,4,Senior,E1144,2024-06-23,,Active,B1,0,,Clean
+E1147,Laura,Koch,laura.koch147@example-company.com,6,2,Director,E1041,2020-02-19,,Active,B3,0,,Clean
+E1575,Sara,Meyer,sara.meyer575@example-company.com,10,1,Junior,E1150,2025-01-18,,Active,B3,0,,Clean
+E1020,Paul,Schmidt,paul.schmidt20@example-company.com,2,3,Lead,E1003,2028-08-17,2018-08-12,Terminated,B5,2,"DQ06, DQ09",Needs review
+E1433,Nina,Werner,nina.werner433@example-company.com,4,4,Lead,E1059,2015-03-10,,Active,B4,0,,Clean
+E1261,Hannah,Becker,hannah.becker261@example-company.com,9,1,Lead,E1074,2022-04-23,2026-06-23,Terminated,B3,0,,Clean
+E1299,Sara,Maier,sara.maier299@example-company.com,6,3,Professional,E1081,2020-07-19,,Active,B3,0,,Clean
+E1383,Eva,Wagner,eva.wagner383@example-company.com,7,1,Lead,E1003,2022-09-18,,Active,B1,0,,Clean
+E1191,Hannah,Weber,hannah.weber191_at_example-company.com,5,1,Lead,E1017,2024-07-06,,Active,B5,1,DQ07,Needs review
+E1441,Lukas,Becker,lukas.becker441@example-company.com,10,1,Senior,E1078,2025-07-05,,Active,B4,0,,Clean
+E1583,Nina,Lehmann,nina.lehmann583@example-company.com,,5,Professional,E1122,2013-09-29,,Active,B4,1,DQ03,Needs review
+E1197,Lea,Krause,lea.krause197@example-company.com,,4,Lead,E1020,2020-06-13,,Active,B2,1,DQ03,Needs review
+E1141,Leon,Weber,leon.weber141@example-company.com,5,2,Lead,E1002,2022-03-14,,Active,B3,0,,Clean
+E1083,Julia,Lehmann,julia.lehmann83@example-company.com,7,4,Junior,E1017,2019-08-27,,Active,B3,0,,Clean
+E1386,Omar,Zimmermann,omar.zimmermann386@example-company.com,4,1,Junior,E1065,2025-10-25,,Active,B1,0,,Clean
+E1527,Tim,Huber,tim.huber527@example-company.com,2,1,Senior,E1019,2020-02-24,,Active,B1,0,,Clean
+E1387,Nina,Peters,,7,1,Junior,E1021,2020-08-11,,Active,B3,1,DQ01,Needs review
+E1085,Lina,Krueger,lina.krueger85@example-company.com,10,1,Lead,E9970,2022-06-05,,Active,B1,1,DQ12,Needs review
+E1517,Tim,Krueger,tim.krueger517@example-company.com,1,1,Senior,E1128,2014-07-14,2019-10-21,Terminated,B1,0,,Clean
+E1180,Mia,Hartmann,mia.hartmann180@example-company.com,9,1,Lead,E1044,2026-03-15,,Active,B3,0,,Clean
+E1100,Max,Klein,max.klein100@example-company.com,10,5,Junior,E1026,2024-10-02,,Active,B2,0,,Clean
+E1347,Paul,Braun,paul.braun347@example-company.com,10,3,Junior,E1081,2020-05-22,,Active,B1,0,,Clean
+E1075,Felix,Schmidt,felix.schmidt75@example-company.com,4,1,Professional,E1022,2017-11-01,,Active,B4,0,,Clean
+E1008,Finn,Weber,finn.weber8@example-company.com,6,1,Professional,,2020-07-10,,Active,B3,0,,Clean
+E1408,Jan,Krause,jan.krause408@example-company.com,10,5,Director,E1408,2017-06-10,,Active,B2,1,DQ13,Needs review
+E1274,Laura,Richter,laura.richter274@example-company.com,6,1,Professional,E1061,2016-04-28,,Active,B3,0,,Clean
+E1280,Eva,Weber,eva.weber280@example-company.com,6,2,Professional,E1280,2026-04-29,2026-09-30,Terminated,B2,1,DQ13,Needs review
+E1155,Jan,Maier,jan.maier155@example-company.com,1,1,Professional,E1034,2023-09-11,,Active,B4,0,,Clean
+E1388,Sara,Fischer,sara.fischer388@example-company.com,10,3,Professional,E1388,2017-07-25,,Active,B1,1,DQ13,Needs review
+E1192,Finn,Wagner,finn.wagner192@example-company.com,3,5,Professional,E1014,2019-06-23,,Active,B4,0,,Clean
+E1558,Sara,Fischer,sara.fischer558@example-company.com,6,1,Junior,E1065,2015-06-13,,Active,B2,0,,Clean
+E1593,Sophie,Hartmann,sophie.hartmann593@example-company.com,3,2,Junior,E1176,,,Active,B5,1,DQ02,Needs review
+E1530,Jonas,Schwarz,jonas.schwarz530@example-company.com,4,3,Junior,E1047,2016-11-01,,Active,B4,0,,Clean
+E1051,Ben,Klein,ben.klein51@example-company.com,4,1,Professional,E1005,2017-02-07,,Active,B1,0,,Clean
+E1039,Leon,Hoffmann,leon.hoffmann39@example-company.com,6,4,Manager,E1006,2023-05-07,,Active,B3,0,,Clean
+E1209,David,Lange,david.lange209@example-company.com,10,1,Junior,E1063,2012-05-14,,Active,B4,0,,Clean
+E1006,Leon,Weber,leon.weber6@example-company.com,5,4,Senior,,2020-06-27,,Active,B3,0,,Clean
+E1076,Emma,Zimmermann,emma.zimmermann76@example-company.com,1,3,Junior,E1017,2017-08-28,2023-04-05,Terminated,B3,0,,Clean
+E1249,Ben,Schmidt,ben.schmidt249@example-company.com,9,1,Senior,E1047,2020-12-25,,Active,B1,0,,Clean
+E1048,Ida,Zimmermann,ida.zimmermann48@example-company.com,4,4,Director,E9640,2025-12-02,,Active,B2,1,DQ12,Needs review
+E1303,Lukas,Richter,lukas.richter303@example-company.com,10,1,Junior,E1043,2020-06-16,,Active,B5,0,,Clean
+E1071,Finn,Werner,finn.werner71@example-company.com,6,1,Professional,E1016,2020-07-13,,Active,B4,0,,Clean
+E1455,Sara,Lange,sara.lange455@example-company.com,7,1,Professional,E1111,2020-09-09,,Active,B3,0,,Clean
+E1598,Ida,Lange,ida.lange598@example-company.com,1,3,Lead,E1016,2021-03-01,,Active,B5,0,,Clean
+E1226,Hannah,Lehmann,hannah.lehmann226@example-company.com,2,1,Junior,E9784,2018-04-02,,Active,B5,1,DQ12,Needs review
+E1287,Clara,Richter,clara.richter287@example-company.com,10,1,Professional,E1033,2012-01-25,,Active,B1,0,,Clean
+E1012,Sophie,Lehmann,sophie.lehmann12@example-company.com,8,1,Junior,E1010,2023-03-13,,Active,B5,0,,Clean
+E1385,Julia,Werner,julia.werner385@example-company.com,3,1,Senior,E1061,2012-03-10,,Active,B2,0,,Clean
+E1151,Hannah,Wagner,hannah.wagner151@example-company.com,3,5,Senior,E1015,2025-05-14,,Active,B2,0,,Clean
+E1401,Sara,Fischer,sara.fischer401@example-company.com,6,1,Lead,E1040,2023-02-16,,Active,B2,0,,Clean
+E1116,Jonas,Lehmann,jonas.lehmann116@example-company.com,5,2,Professional,E9571,2015-06-15,,Active,B4,1,DQ12,Needs review
+E1282,Lina,Lange,lina.lange282@example-company.com,10,4,Junior,E1069,2016-11-24,,Active,B4,0,,Clean
+E1254,Hannah,Becker,hannah.becker254@example-company.com,5,2,Senior,E1054,2020-10-24,,On Leave,B5,0,,Clean
+E1196,Noah,Weber,noah.weber196@example-company.com,9,1,Professional,E1046,2023-05-21,,Active,B5,0,,Clean
+E1577,Jan,Klein,jan.klein577@example-company.com,9,1,Professional,E1102,2015-01-01,,Active,B1,0,,Clean
+E1066,David,Peters,david.peters66@example-company.com,9,1,Junior,E1010,2023-04-28,,Active,B4,0,,Clean
+E1393,Sophie,Schmidt,sophie.schmidt393@example-company.com,9,1,Senior,E1017,2013-05-10,2018-02-23,Terminated,B4,0,,Clean
+E1220,Leon,Klein,leon.klein220@example-company.com,6,3,Professional,E1070,2019-03-16,,Active,B5,0,,Clean
+E1366,Max,Weber,max.weber366@example-company.com,5,4,Junior,E1051,2026-08-29,,Active,B3,0,,Clean
+E1070,Laura,Zimmermann,laura.zimmermann70@example-company.com,7,1,Lead,E1021,2013-05-25,,Active,B1,0,,Clean
+E1094,Jonas,Hoffmann,jonas.hoffmann94@example-company.com,3,1,Senior,E1006,2018-08-23,,Active,B2,0,,Clean
+E1069,Lea,Koch,lea.koch69@example-company.com,4,1,Professional,E1006,2020-08-03,,Terminated,B5,1,DQ11,Needs review
+E1022,Max,Hoffmann,,4,3,Professional,E1009,2024-02-04,,Active,B3,1,DQ01,Needs review
+E1078,Maria,Meyer,maria.meyer78@example-company.com,3,1,Junior,E1007,2025-12-07,,Active,B2,0,,Clean
+E1451,Tom,Klein,tom.klein451@example-company.com,1,1,Senior,E1126,2020-06-15,2019-03-01,Terminated,B4,1,DQ09,Needs review
+E1438,Lea,Becker,lea.becker438@example-company.com,8,2,Junior,E1106,2021-10-18,,Active,B5,0,,Clean
+E1237,Sara,Klein,sara.klein237@example-company.com,9,2,Senior,E1042,2025-10-12,,Active,B5,0,,Clean
+E1426,Emma,Schwarz,emma.schwarz426@example-company.com,9,1,Director,E1112,2015-01-29,,Active,B5,0,,Clean
+E1315,Anna,Lange,anna.lange315@example-company.com,1,2,Professional,E1087,2024-05-16,,Active,B3,0,,Clean
+E1126,Finn,Lange,finn.lange126@example-company.com,4,2,Manager,E1033,2012-10-21,,Active,B2,0,,Clean
+E1229,Mia,Maier,mia.maier229@example-company.com,2,2,Professional,E1059,2019-03-03,,Active,B3,0,,Clean
+E1464,Erik,Huber,erik.huber464@example-company.com,7,1,Junior,E1112,2025-12-22,,Active,B5,0,,Clean
+E1043,Tom,Lehmann,tom.lehmann43@example-company.com,5,5,Lead,E1012,2017-12-02,,Active,B1,0,,Clean
+E1005,Mia,Schwarz,mia.schwarz5@example-company.com,6,2,Lead,,2014-03-03,,Active,B4,0,,Clean
+E1466,Ida,Zimmermann,ida.zimmermann466@example-company.com,8,2,Professional,E1064,2017-12-03,,Active,B2,0,,Clean
+E1065,Laura,Wagner,laura.wagner65@example-company.com,9,2,Manager,E1017,2022-06-03,,Active,B4,0,,Clean
+E1495,Lea,Krause,lea.krause495@example-company.com,7,1,Professional,E1083,2021-09-22,,Active,B1,0,,Clean
+E1110,Hannah,Wolf,,7,3,Professional,E1013,2014-05-06,2018-05-15,Terminated,B4,1,DQ01,Needs review
+E1256,Nina,Klein,nina.klein256@example-company.com,8,1,Senior,E1047,2026-02-10,,Active,B5,0,,Clean
+E1420,Jonas,Meyer,jonas.meyer420@example-company.com,3,1,Professional,E1070,2013-05-20,2016-03-15,Terminated,B1,0,,Clean
+E1375,Finn,Fischer,finn.fischer375@example-company.com,7,4,Professional,E1076,2023-12-27,,Active,B3,0,,Clean
+E1206,Eva,Wagner,eva.wagner206@example-company.com,,5,Junior,E1041,2022-07-09,,Active,B2,1,DQ03,Needs review
+E1494,Emma,Hoffmann,emma.hoffmann494@example-company.com,3,1,Lead,E1049,2015-10-13,,Active,B1,0,,Clean
+E1148,Lukas,Schwarz,lukas.schwarz148@example-company.com,2,5,Lead,E1015,2018-03-10,,Active,B1,0,,Clean
+E1007,Nina,Hoffmann,nina.hoffmann7@example-company.com,4,4,Director,,2013-07-23,,Active,B2,0,,Clean
+E1483,Emma,Lehmann,emma.lehmann483@example-company.com,3,2,Professional,E1018,2026-08-11,,Active,B1,0,,Clean
+E1291,Julia,Wagner,julia.wagner291@example-company.com,5,1,Senior,E1051,2016-12-29,2017-07-30,Terminated,B4,0,,Clean
+E1391,Julia,Meyer,julia.meyer391@example-company.com,7,4,Senior,E1027,2020-02-06,2021-11-27,Terminated,B3,0,,Clean
+E1454,Finn,Weber,finn.weber454@example-company.com,8,1,Senior,E1003,2018-12-01,,Active,B1,0,,Clean
+E1417,Erik,Maier,erik.maier417@example-company.com,4,4,Professional,E1122,2018-10-28,2019-08-09,Terminated,B1,0,,Clean
+E1260,Eva,Wagner,eva.wagner260@example-company.com,,5,Professional,E1024,2023-08-20,,Active,B4,1,DQ03,Needs review
+E1283,Julia,Huber,julia.huber283@example-company.com,10,1,Lead,E1093,2020-02-11,,Active,B5,0,,Clean
+E1123,Nina,Wolf,nina.wolf123@example-company.com,2,2,Professional,E1019,2014-04-02,2019-07-08,Terminated,B2,0,,Clean
+E1079,Laura,Huber,laura.huber79@example-company.com,3,2,Manager,E1002,2017-09-30,,Active,B1,0,,Clean
+E1557,Tom,Lehmann,tom.lehmann557@example-company.com,2,1,Lead,E1032,2016-10-12,2021-11-12,Terminated,B4,0,,Clean
+E1321,Ida,Hartmann,ida.hartmann321@example-company.com,10,1,Junior,E1084,2012-12-14,,Active,B1,0,,Clean
+E1579,Nina,Maier,nina.maier579@example-company.com,8,5,Junior,E1003,2020-06-15,2019-03-01,Terminated,B4,1,DQ09,Needs review
+E1152,Jonas,Maier,jonas.maier152@example-company.com,6,4,Professional,E1021,2012-07-30,,Active,B3,0,,Clean
+E1376,Maria,Klein,maria.klein376@example-company.com,3,2,Professional,E1067,2019-07-29,,Active,B3,0,,Clean
+E1300,Clara,Becker,clara.becker300@example-company.com,4,1,Senior,E1013,2024-01-24,,Active,B4,0,,Clean
+E1434,Leon,Klein,leon.klein434@example-company.com,2,1,Senior,E1023,2015-12-09,,Active,B1,0,,Clean
+E1164,Julia,Hoffmann,julia.hoffmann164@example-company.com,4,4,Professional,E1044,2015-06-21,,Active,B5,0,,Clean
+E1506,Maria,Weber,maria.weber506@example-company.com,2,1,Lead,E1113,2023-06-22,,Active,B4,0,,Clean
+E1397,Jonas,Braun,jonas.braun397@example-company.com,5,3,Senior,E1102,2025-09-24,,Active,B2,0,,Clean
+E1326,Hannah,Krause,hannah.krause326@example-company.com,6,1,Professional,E1046,2025-10-07,2026-09-30,Terminated,B4,0,,Clean
+E1404,Omar,Schmidt,omar.schmidt404@example-company.com,7,1,Professional,E1080,2024-05-26,,Active,B3,0,,Clean
+E1266,Jan,Krueger,jan.krueger266@example-company.com,9,1,Senior,E1035,2016-10-18,,Active,B3,0,,Clean
+E1538,Eva,Lehmann,eva.lehmann538@example-company.com,11,3,Lead,E1114,2015-12-27,,Active,B5,1,DQ14,Needs review
+E1595,Leon,Meyer,leon.meyer595@example-company.com,7,1,Junior,E1087,2026-07-24,,Active,B5,0,,Clean
+E1510,Mia,Peters,mia.peters510@example-company.com,8,5,Professional,E1039,2014-04-09,2017-03-10,Terminated,B4,0,,Clean
+E1302,Emma,Hoffmann,,8,4,Junior,E1096,2019-05-29,,Active,B2,1,DQ01,Needs review
+E1279,Lukas,Maier,lukas.maier279@example-company.com,3,1,Senior,E1018,2014-08-26,,Active,B3,0,,Clean
+E1144,Jonas,Wagner,jonas.wagner144@example-company.com,8,1,Professional,E1017,2013-01-06,2016-10-03,Terminated,B5,0,,Clean
+E1552,Hannah,Neumann,hannah.neumann552@example-company.com,10,2,Director,E1041,2018-08-01,,Active,B1,0,,Clean
+E1449,Eva,Meyer,,10,4,Junior,E1137,2021-09-03,2023-11-07,Terminated,B1,1,DQ01,Needs review
+E1200,Laura,Braun,laura.braun200@example-company.com,9,2,Manager,E1011,,,Active,B2,1,DQ02,Needs review
+E1042,Ida,Weber,ida.weber42@example-company.com,5,2,Senior,E1010,2024-05-29,,Active,B2,0,,Clean
+E1437,Finn,Hartmann,finn.hartmann437@example-company.com,7,2,Professional,E1094,2020-03-08,2024-09-13,Terminated,B3,0,,Clean
+E1560,Sara,Schwarz,sara.schwarz560@example-company.com,7,3,Senior,E1164,2021-09-17,,Active,B5,0,,Clean
+E1502,Felix,Weber,,1,1,Senior,E1027,2020-03-22,,Active,B5,1,DQ01,Needs review
+E1232,Erik,Lange,erik.lange232@example-company.com,2,1,Professional,E1002,2014-11-29,,Active,B4,0,,Clean
+E1246,Laura,Krueger,laura.krueger246@example-company.com,2,5,Senior,E1061,2018-12-02,,Active,B2,0,,Clean
+E1314,Lukas,Krause,lukas.krause314@example-company.com,10,5,Senior,E9583,2026-04-21,,Active,B1,1,DQ12,Needs review
+E1168,Finn,Wagner,finn.wagner168@example-company.com,2,1,Senior,E1005,2020-06-15,2019-03-01,Terminated,B1,1,DQ09,Needs review
+E1333,Ida,Koch,ida.koch333@example-company.com,7,1,Professional,E1058,2024-10-29,,Active,B3,0,,Clean
+E1592,Emma,Becker,emma.becker592@example-company.com,4,1,Junior,E1024,2019-09-08,2020-10-13,Terminated,B1,0,,Clean
+E1473,Ida,Hoffmann,ida.hoffmann473@example-company.com,8,1,Professional,E1109,2013-04-17,,Active,B2,0,,Clean
+E1264,Noah,Weber,noah.weber264@example-company.com,99,4,Professional,E1030,2024-11-10,,Active,B3,1,DQ14,Needs review
+E1030,Jonas,Schmidt,jonas.schmidt30@example-company.com,1,5,Manager,E1003,2026-08-17,,On Leave,B2,0,,Clean
+E1239,Maria,Meyer,,10,1,Professional,E1079,2013-10-27,,Active,B5,1,DQ01,Needs review
+E1251,Jonas,Wagner,jonas.wagner251@example-company.com,6,2,Professional,E1064,2014-03-03,,Active,B2,0,,Clean
+E1163,Ben,Maier,ben.maier163@example-company.com,5,2,Professional,E1026,2021-06-26,2022-05-22,Terminated,B5,0,,Clean
+E1150,Erik,Werner,erik.werner150@example-company.com,9,1,Professional,E1045,2016-08-08,,Active,B2,0,,Clean
+E1227,Clara,Lange,clara.lange227@example-company.com,5,3,Professional,E1016,2014-08-22,2024-11-30,Active,B5,1,DQ10,Needs review
+E1354,Laura,Werner,laura.werner354@example-company.com,4,1,Lead,E1011,2020-06-15,2019-03-01,Terminated,B1,1,DQ09,Needs review
+E1540,Julia,Weber,julia.weber540@example-company.com,1,3,Junior,E1009,2012-07-26,,Active,B2,0,,Clean
+E1095,Emma,Schmidt,emma.schmidt95@example-company.com,3,2,Lead,E1003,2013-03-22,,Active,B1,0,,Clean
+E1588,Lukas,Wagner,lukas.wagner588@example-company.com,3,2,Junior,E1023,2024-11-11,,Active,B5,0,,Clean
+E1222,David,Zimmermann,david.zimmermann222@example-company.com,,1,Senior,E1065,2018-02-27,,Active,B3,1,DQ03,Needs review
+E1086,Emma,Braun,emma.braun86@example-company.com,10,2,Professional,E1020,2017-06-20,,Active,B1,0,,Clean
+E1389,Finn,Maier,finn.maier389@example-company.com,10,2,Senior,E1043,2018-10-07,,Active,B3,0,,Clean
+E1188,Laura,Weber,laura.weber188@example-company.com,2,2,Junior,E1048,2019-09-14,,On Leave,B2,0,,Clean
+E1090,Paul,Schwarz,paul.schwarz90@example-company.com,10,1,Senior,E1012,2017-06-16,,Terminated,B3,1,DQ11,Needs review
+E1529,Ida,Becker,ida.becker529@example-company.com,7,1,Senior,E1121,2023-01-16,,Active,B2,0,,Clean
+E1035,Mia,Krause,mia.krause35@example-company.com,4,1,Manager,E1002,2013-07-10,,Active,B5,0,,Clean
+E1218,Erik,Neumann,erik.neumann218@example-company.com,7,1,Junior,E1055,2021-10-19,2026-09-30,Terminated,B4,0,,Clean
+E1073,Anna,Schwarz,anna.schwarz73@example-company.com,7,3,Lead,E1001,,,Active,B2,1,DQ02,Needs review
+E1306,Clara,Koch,clara.koch306@example-company.com,5,1,Senior,E1047,2024-05-19,,Active,B3,0,,Clean
+E1221,Eva,Zimmermann,eva.zimmermann221@example-company.com,6,1,Senior,E1221,2015-09-27,,Active,B3,1,DQ13,Needs review
+E1460,Nina,Hartmann,nina.hartmann460@example-company.com,10,1,Manager,E1096,2024-10-25,,Active,B4,0,,Clean
+E1591,Felix,Koch,felix.koch591@example-company.com,10,4,Junior,E1128,2027-12-25,,Active,B5,1,DQ06,Needs review
+E1396,Noah,Huber,noah.huber396@example-company.com,4,1,Junior,E1007,2021-10-23,,Active,B4,0,,Clean
+E1395,Noah,Fischer,noah.fischer395@example-company.com,9,1,Senior,E1014,2023-06-20,2025-07-15,Terminated,B1,0,,Clean
+E1111,Maria,Lange,maria.lange111@example-company.com,6,1,Junior,E1030,2012-10-27,2024-11-30,Active,B4,1,DQ10,Needs review
+E1368,Finn,Huber,finn.huber368@example-company.com,3,2,Lead,E1114,2025-09-08,,Active,B2,0,,Clean
+E1413,Mia,Werner,mia.werner413@example-company.com,3,1,Professional,E1008,2024-09-25,,Active,B3,0,,Clean
+E1013,Leon,Richter,leon.richter13@example-company.com,10,1,Professional,E1005,2025-02-09,,Active,B2,0,,Clean
+E1344,Eva,Lange,eva.lange344@example-company.com,2,1,Professional,E1104,,,Active,B3,1,DQ02,Needs review
+E1214,Ben,Lange,ben.lange214@example-company.com,3,4,Senior,E1029,2019-08-05,,Active,B4,0,,Clean
+E1586,David,Huber,david.huber586@example-company.com,7,4,Senior,E1040,2014-08-27,,Active,B4,0,,Clean
+E1235,Max,Hartmann,max.hartmann235@example-company.com,3,1,Junior,E1075,2013-03-29,2019-05-19,Terminated,B2,0,,Clean
+E1578,Tom,Koch,tom.koch578@example-company.com,9,1,Junior,E1063,2025-10-09,,Active,B5,0,,Clean
+E1421,Nina,Werner,nina.werner421@example-company.com,1,5,Junior,E1114,2017-10-21,,Terminated,B4,1,DQ11,Needs review
+E1432,Felix,Koch,felix.koch432@example-company.com,6,5,Junior,E1139,2025-04-15,,Active,B3,0,,Clean
+E1522,Julia,Koch,julia.koch522@example-company.com,7,4,Junior,E1021,2024-05-06,,Active,B4,0,,Clean
+E1217,Lukas,Lehmann,lukas.lehmann217@example-company.com,1,4,Professional,E1068,2016-04-14,2024-11-30,Active,B1,1,DQ10,Needs review
+E1097,Emma,Krueger,emma.krueger97@example-company.com,8,1,Senior,E1026,2014-07-23,2019-05-19,Terminated,B1,0,,Clean
+E1462,Sophie,Lehmann,sophie.lehmann462@example-company.com,6,5,Manager,E1106,2015-04-26,2018-07-15,Terminated,B1,0,,Clean
+E1476,Jan,Huber,jan.huber476@example-company.com,7,1,Lead,E1157,2014-01-10,,Active,B2,0,,Clean
+E1298,Ida,Peters,ida.peters298@example-company.com,7,2,Junior,E1061,2015-12-05,,Active,B3,0,,Clean
+E1064,Lina,Zimmermann,lina.zimmermann64@example-company.com,9,1,Senior,E1021,2016-11-27,,Active,B1,0,,Clean
+E1223,Julia,Peters,julia.peters223@example-company.com,10,3,Professional,E1045,2015-08-03,2017-07-07,Terminated,B2,0,,Clean
+E1453,Tim,Hoffmann,tim.hoffmann453@example-company.com,3,2,Director,E1077,2014-03-05,,Active,B4,0,,Clean
+E1096,Finn,Meyer,finn.meyer96@example-company.com,8,1,Junior,E1009,2024-11-15,,Active,B1,0,,Clean
+E1014,Julia,Krueger,julia.krueger14@example-company.com,2,1,Junior,E1007,2014-01-14,,Active,B4,0,,Clean
+E1328,Mia,Krause,mia.krause328@example-company.com,2,1,Junior,E1087,2018-08-16,,Active,B2,0,,Clean
+E1436,Omar,Wolf,omar.wolf436@example-company.com,10,3,Junior,E1079,2013-05-02,,Active,B1,0,,Clean
+E1018,Julia,Becker,julia.becker18@example-company.com,9,2,Junior,E1009,2023-05-21,2026-09-30,Terminated,B2,0,,Clean
+E1528,Hannah,Neumann,hannah.neumann528@example-company.com,9,2,Senior,E1140,2026-03-18,2026-09-30,Terminated,B1,0,,Clean
+E1247,Sophie,Werner,sophie.werner247@example-company.com,5,1,Manager,E1079,2019-11-30,,Active,B4,0,,Clean
+E1550,Erik,Huber,,3,2,Lead,E1080,2019-02-16,,Active,B2,1,DQ01,Needs review
+E1514,Emma,Schwarz,emma.schwarz514@example-company.com,3,1,Senior,E1088,2022-09-22,,Active,B1,0,,Clean
+E1208,Jonas,Schmidt,jonas.schmidt208@example-company.com,10,1,Junior,E1036,2017-05-07,,Active,B4,0,,Clean
+E1091,Max,Peters,max.peters91@example-company.com,8,1,Professional,E1008,2024-05-05,,Active,B1,0,,Clean
+E1308,Lina,Wolf,lina.wolf308@example-company.com,7,1,Lead,E1072,2016-07-22,,Active,B2,0,,Clean
+E1342,Paul,Richter,paul.richter342@example-company.com,,1,Director,E1022,2015-06-16,,Active,B4,1,DQ03,Needs review
+E1381,Max,Lehmann,max.lehmann381@example-company.com,1,1,Junior,E1024,2014-01-17,,Active,B5,0,,Clean
+E1418,Eva,Koch,eva.koch418@example-company.com,1,3,Professional,E1120,2019-12-24,,Active,B2,0,,Clean
+E1345,Felix,Lehmann,felix.lehmann345@example-company.com,7,5,Professional,E1044,2025-09-28,,Active,B4,0,,Clean
+E1472,Mia,Klein,mia.klein472@example-company.com,9,4,Junior,E1021,2023-05-14,,Active,B2,0,,Clean
+E1573,Lina,Klein,,3,2,Junior,E1043,2022-12-03,,Active,B3,1,DQ01,Needs review
+E1352,Felix,Lange,felix.lange352@example-company.com,7,5,Professional,E1117,2015-08-04,,Active,B4,0,,Clean
+E1040,Noah,Becker,noah.becker40@example-company.com,10,5,Lead,E1013,2021-10-29,2025-07-19,Terminated,B5,0,,Clean
+E1087,Tim,Wolf,tim.wolf87@example-company.com,6,4,Professional,E1006,2016-01-29,,Active,B5,0,,Clean
+E1182,Lina,Lehmann,lina.lehmann182@example-company.com,8,1,Senior,E1059,2013-09-09,,Active,B5,0,,Clean
+E1033,Noah,Hoffmann,noah.hoffmann33@example-company.com,9,1,Professional,E1008,2013-04-24,,Active,B1,0,,Clean
+E1587,Tom,Krueger,tom.krueger587@example-company.com,3,2,Professional,E1096,2022-09-29,,Active,B2,0,,Clean
+E1146,Ida,Zimmermann,ida.zimmermann146@example-company.com,5,1,Professional,E1025,2014-03-22,2019-02-15,Terminated,B4,0,,Clean
+E1159,Jan,Hoffmann,jan.hoffmann159@example-company.com,4,1,Lead,E1017,2021-08-24,,Active,B4,0,,Clean
+E1173,Julia,Maier,julia.maier173@example-company.com,7,5,Junior,E1023,2018-12-01,,Active,B2,0,,Clean
+E1533,Tim,Hartmann,tim.hartmann533@example-company.com,3,3,Junior,E1098,2015-12-22,,Active,B4,0,,Clean
+E1534,Tom,Krause,tom.krause534@example-company.com,7,1,Senior,E1004,2025-08-05,2026-09-30,Terminated,B2,0,,Clean
+E1409,Jan,Lange,jan.lange409@example-company.com,7,1,Senior,E1033,2017-07-01,,Active,B1,0,,Clean
+E1523,Erik,Werner,erik.werner523@example-company.com,8,1,Junior,E1038,2022-01-18,,Active,B4,0,,Clean
+E1201,Erik,Krause,erik.krause201@example-company.com,8,4,Senior,E1064,2015-02-07,2016-01-06,Terminated,B1,0,,Clean
+E1427,Erik,Meyer,erik.meyer427@example-company.com,6,1,Lead,E1135,2020-07-30,,Active,B3,0,,Clean
+E1382,Paul,Hartmann,paul.hartmann382@example-company.com,6,4,Director,E1110,2021-12-24,,Active,B4,0,,Clean
+E1293,Lukas,Maier,lukas.maier293@example-company.com,1,1,Junior,E1089,2021-05-27,,Active,B5,0,,Clean
+E1349,Ben,Klein,ben.klein349@example-company.com,4,2,Professional,E1074,2019-09-11,,Active,B1,0,,Clean
+E1072,Leon,Peters,leon.peters72@example-company.com,4,1,Professional,E1015,2024-03-31,,Active,B4,0,,Clean
+E1545,Maria,Koch,maria.koch545@example-company.com,6,3,Senior,E1171,2026-03-19,,Active,B5,0,,Clean
+E1511,Lukas,Weber,lukas.weber511@example-company.com,6,4,Professional,E1004,2015-12-02,2019-07-04,Terminated,B1,0,,Clean
+E1576,Leon,Lange,leon.lange576@example-company.com,3,1,Professional,E1031,2022-08-03,,Active,B5,0,,Clean
+E1556,Hannah,Hartmann,,9,2,Senior,E1134,2013-11-05,2016-01-19,Terminated,B2,1,DQ01,Needs review
+E1490,Finn,Lehmann,finn.lehmann490@example-company.com,10,1,Manager,E1116,2028-08-04,,Active,B5,1,DQ06,Needs review
+E1553,Jonas,Maier,jonas.maier553@example-company.com,10,5,Professional,E1162,2019-10-05,,Active,B1,0,,Clean
+E1549,Lukas,Lehmann,lukas.lehmann549@example-company.com,8,4,Senior,E1175,2025-10-22,2024-11-30,Active,B1,2,"DQ09, DQ10",Needs review
+E1134,Maria,Maier,maria.maier134@example-company.com,10,4,Lead,E1031,2020-11-16,,Active,B1,0,,Clean
+E1061,Hannah,Fischer,hannah.fischer61@example-company.com,4,4,Junior,E1013,2017-04-08,,Active,B1,0,,Clean
+E1027,Ben,Zimmermann,ben.zimmermann27@example-company.com,1,3,Director,E1010,2021-03-21,,Active,B1,0,,Clean
+E1101,Sara,Hoffmann,sara.hoffmann101@example-company.com,3,1,Senior,E1013,2017-12-07,,Active,B2,0,,Clean
+E1521,Finn,Becker,finn.becker521@example-company.com,6,1,Director,E1085,2013-09-05,,Active,B1,0,,Clean
+E1364,Noah,Becker,noah.becker364@example-company.com,8,2,Junior,E1078,2022-04-04,,Active,B1,0,,Clean
+E1310,Clara,Werner,clara.werner310@example-company.com,6,1,Lead,E1045,2020-06-15,2019-03-01,Terminated,B4,1,DQ09,Needs review
+E1253,Erik,Krueger,erik.krueger253@example-company.com,10,4,Junior,E1027,2023-08-25,,Active,B5,0,,Clean
+E1482,Noah,Maier,noah.maier482@example-company.com,6,5,Senior,E1049,2014-06-04,,Active,B3,0,,Clean
+E1442,Lea,Wolf,lea.wolf442@example-company.com,6,1,Manager,E1003,2013-09-29,,Active,B1,0,,Clean
+E1477,Finn,Koch,finn.koch477@example-company.com,4,1,Professional,E1070,2026-07-09,,Active,B1,0,,Clean
+E1023,Laura,Hartmann,laura.hartmann23@example-company.com,4,1,Junior,E1009,2022-02-15,,Active,B5,0,,Clean
+E1063,Eva,Huber,eva.huber63@example-company.com,99,1,Senior,E1020,2020-08-11,,Active,B1,1,DQ14,Needs review
+E1149,Tom,Hoffmann,tom.hoffmann149@example-company.com,1,1,Professional,E1044,2026-05-23,,Active,B2,0,,Clean
+E1484,Erik,Krause,erik.krause484@example-company.com,3,3,Senior,E9538,2021-01-23,,Active,B3,1,DQ12,Needs review
+E1568,Laura,Lehmann,laura.lehmann568@example-company.com,2,1,Junior,E1061,2024-04-29,,Active,B5,0,,Clean
+E1258,Lea,Maier,lea.maier258@example-company.com,2,1,Professional,E9767,2017-06-07,,Active,B4,1,DQ12,Needs review
+E1053,Anna,Weber,anna.weber53@example-company.com,5,1,Senior,E1014,2017-11-09,,Active,B3,0,,Clean
+E1243,Clara,Wagner,clara.wagner243@example-company.com,2,1,Professional,E1034,2020-04-23,,Active,B3,0,,Clean
+E1174,Noah,Hoffmann,noah.hoffmann174@example-company.com,5,1,Junior,E1014,2015-01-29,,Active,B4,0,,Clean
+E1036,Paul,Werner,paul.werner36@example-company.com,2,1,Senior,E1004,2025-05-02,2024-11-30,Active,B5,2,"DQ09, DQ10",Needs review
+E1179,Nina,Schwarz,nina.schwarz179@example-company.com,5,3,Professional,E1048,2023-10-02,,Active,B2,0,,Clean
+E1121,Finn,Hoffmann,finn.hoffmann121@example-company.com,4,4,Professional,E1005,2017-05-10,,Active,B3,0,,Clean
+E1276,David,Lehmann,david.lehmann276@example-company.com,6,1,Senior,E1023,2021-02-03,2026-09-30,Terminated,B2,0,,Clean
+E1045,Felix,Peters,felix.peters45@example-company.com,7,2,Junior,E1012,2021-11-28,,Active,B2,0,,Clean
+E1301,Omar,Schmidt,omar.schmidt301@example-company.com,7,2,Junior,E1058,2024-08-12,,Active,B2,0,,Clean
+E1077,Paul,Lehmann,paul.lehmann77@example-company.com,1,3,Manager,E1010,2013-07-16,,Active,B2,0,,Clean
+E1369,Erik,Schmidt,erik.schmidt369@example-company.com,5,2,Junior,E1057,2024-10-14,,Active,B3,0,,Clean
+E1213,Ben,Koch,ben.koch213@example-company.com,10,3,Professional,E1051,2026-02-02,,Active,B1,0,,Clean
+E1268,Paul,Lehmann,paul.lehmann268@example-company.com,7,1,Professional,E1072,2017-03-22,,Active,B2,0,,Clean
+E1312,Sara,Schmidt,sara.schmidt312@example-company.com,2,5,Senior,E1053,2023-10-02,,Active,B1,0,,Clean
+E1445,Jan,Zimmermann,jan.zimmermann445@example-company.com,7,1,Professional,E1035,2015-09-24,2021-08-02,Terminated,B4,0,,Clean
+E1504,Max,Braun,max.braun504@example-company.com,5,1,Junior,E1069,2020-07-12,,Active,B1,0,,Clean
+E1496,Lukas,Lange,lukas.lange496@example-company.com,1,4,Lead,E1005,2016-06-21,,Active,B5,0,,Clean
+E1034,Nina,Krueger,nina.krueger34@example-company.com,3,1,Senior,E1003,2023-04-12,2026-09-30,Terminated,B2,0,,Clean
+E1010,Clara,Richter,clara.richter10@example-company.com,4,3,Lead,,2026-05-09,,Active,B1,0,,Clean
+E1161,Tom,Krueger,tom.krueger161@example-company.com,2,1,Junior,E1019,2013-07-03,,Active,B3,0,,Clean
+E1286,Julia,Zimmermann,julia.zimmermann286@example-company.com,9,1,Lead,E1039,2022-03-31,2024-11-30,Active,B1,1,DQ10,Needs review
+E1296,Maria,Peters,maria.peters296@example-company.com,10,4,Lead,E1028,2024-12-02,,Active,B2,0,,Clean
+E1278,Hannah,Klein,hannah.klein278@example-company.com,1,1,Professional,E1064,2025-01-23,,Active,B2,0,,Clean
+E1570,Hannah,Krueger,hannah.krueger570@example-company.com,5,3,Junior,E1112,2022-02-08,,Active,B5,0,,Clean
+E1485,Emma,Zimmermann,emma.zimmermann485@example-company.com,99,2,Director,E1035,2021-01-27,,Active,B2,1,DQ14,Needs review
+E1497,Sophie,Meyer,,4,1,Manager,E1039,2012-02-03,,Active,B3,1,DQ01,Needs review
+E1183,Laura,Maier,laura.maier183@example-company.com,10,1,Director,E1013,2024-08-29,,Active,B3,0,,Clean
+E1597,Jonas,Zimmermann,jonas.zimmermann597@example-company.com,4,5,Junior,E1161,2015-01-01,,Active,B5,0,,Clean
+E1037,Hannah,Richter,hannah.richter37@example-company.com,6,1,Professional,E1009,2016-07-31,,Active,B3,0,,Clean
+E1157,Lea,Fischer,lea.fischer157@example-company.com,10,2,Professional,E1001,2014-10-30,,Active,B5,0,,Clean
+E1003,Leon,Hoffmann,leon.hoffmann3@example-company.com,7,1,Senior,,2026-07-29,,Active,B1,0,,Clean
+E1509,Anna,Meyer,anna.meyer509@example-company.com,8,1,Junior,E1024,2013-12-30,2020-10-05,Terminated,B5,0,,Clean
+E1498,Lea,Weber,lea.weber498@example-company.com,5,1,Lead,E1013,,,Active,B3,1,DQ02,Needs review
+E1309,Anna,Richter,anna.richter309@example-company.com,7,1,Junior,E1033,2024-05-29,2026-09-30,Terminated,B2,0,,Clean
+E1290,Clara,Fischer,clara.fischer290@example-company.com,6,1,Director,E1007,2024-02-04,,Active,B4,0,,Clean
+E1561,Mia,Peters,mia.peters561@example-company.com,,1,Senior,E1077,2025-02-18,,Active,B3,1,DQ03,Needs review
+E1415,Lina,Werner,lina.werner415@example-company.com,3,1,Professional,E1092,2014-06-11,,Active,B1,0,,Clean
+E1422,Erik,Wagner,erik.wagner422@example-company.com,2,1,Professional,E1035,2014-01-23,2018-02-09,Terminated,B2,0,,Clean
+E1142,Jonas,Maier,jonas.maier142@example-company.com,10,4,Senior,E1031,2017-03-30,,Active,B5,0,,Clean
+E1224,Mia,Koch,mia.koch224@example-company.com,7,5,Junior,E1051,2026-06-21,,Active,B2,0,,Clean
+E1184,Lea,Braun,lea.braun184@example-company.com,5,4,Senior,E1032,2013-07-13,,Active,B3,0,,Clean
+E1512,Jonas,Schmidt,jonas.schmidt512@example-company.com,6,1,Professional,E1127,2012-03-20,2014-06-16,Terminated,B5,0,,Clean
+E1118,Finn,Fischer,finn.fischer118@example-company.com,7,1,Lead,E1033,2018-03-13,,Active,B3,0,,Clean
+E1002,Mia,Werner,mia.werner2@example-company.com,2,1,Senior,,2021-06-18,,Active,B1,0,,Clean
+E1114,Laura,Huber,laura.huber114@example-company.com,10,4,Senior,E1001,2022-11-14,,Active,B3,0,,Clean
+E1600,Jonas,Wagner,jonas.wagner600@example-company.com,5,1,Senior,E1092,2021-07-22,,Active,B5,0,,Clean
+E1166,David,Maier,david.maier166@example-company.com,10,5,Lead,E1053,2026-05-31,,Active,B3,0,,Clean
+E1185,Julia,Fischer,julia.fischer185@example-company.com,1,1,Lead,E1048,2018-12-17,,Active,B1,0,,Clean
+E1373,Laura,Fischer,laura.fischer373@example-company.com,2,1,Senior,E1047,2026-03-18,,Active,B3,0,,Clean
+E1275,Eva,Becker,eva.becker275@example-company.com,5,2,Lead,E1002,2012-04-25,,Active,B2,0,,Clean
+E1001,Sara,Weber,sara.weber1@example-company.com,4,1,Senior,,2028-03-02,,Active,B5,1,DQ06,Needs review
+E1567,Maria,Richter,maria.richter567@example-company.com,10,4,Lead,E1029,2016-05-10,,Active,B5,0,,Clean
+E1541,Noah,Maier,noah.maier541@example-company.com,1,3,Professional,E1051,2017-08-14,,Active,B5,0,,Clean
+E1501,Anna,Koch,anna.koch501@example-company.com,3,1,Junior,E1048,2017-01-11,,Active,B5,0,,Clean
+E1384,Hannah,Neumann,hannah.neumann384_at_example-company.com,3,2,Senior,E1017,2018-09-17,,Active,B1,1,DQ07,Needs review
+E1406,Erik,Hartmann,erik.hartmann406@example-company.com,8,4,Lead,E1064,2013-01-11,2014-02-17,Terminated,B3,0,,Clean
+E1562,Erik,Maier,erik.maier562@example-company.com,5,3,Professional,E1051,2018-10-04,,Active,B4,0,,Clean
+E1021,Lina,Wagner,lina.wagner21@example-company.com,9,1,Senior,E1006,2014-11-17,,Active,B5,0,,Clean
+E1177,Max,Werner,max.werner177@example-company.com,7,1,Professional,E1018,2021-01-26,,Active,B3,0,,Clean
+E1336,Lea,Klein,lea.klein336@example-company.com,10,1,Lead,E1079,2012-02-25,2016-03-15,Terminated,B4,0,,Clean
+E1380,Ben,Maier,ben.maier380@example-company.com,7,2,Senior,E1022,2026-07-21,,Active,B2,0,,Clean
+E1546,Sophie,Peters,sophie.peters546@example-company.com,3,5,Junior,E1054,2016-05-04,,Active,B2,0,,Clean
+E1172,Sophie,Hartmann,sophie.hartmann172@example-company.com,2,1,Senior,E1021,2014-07-21,,Active,B4,0,,Clean
+E1520,Lea,Lange,lea.lange520@example-company.com,3,2,Professional,E1009,2025-09-29,,Active,B4,0,,Clean
+E1508,Noah,Becker,noah.becker508@example-company.com,4,3,Professional,E1060,2012-11-18,,Active,B2,0,,Clean
+E1153,Anna,Becker,anna.becker153_at_example-company.com,7,2,Senior,E1027,2017-12-13,,Active,B4,1,DQ07,Needs review
+E1414,Omar,Schwarz,omar.schwarz414@example-company.com,5,1,Manager,E1009,2019-04-26,,Active,B2,0,,Clean
+E1582,Maria,Peters,maria.peters582@example-company.com,10,1,Senior,E1177,,,Active,B3,1,DQ02,Needs review
+E1317,Paul,Hoffmann,paul.hoffmann317@example-company.com,6,1,Professional,E1026,2025-11-25,,Active,B3,0,,Clean
+E1259,Lea,Zimmermann,lea.zimmermann259@example-company.com,10,5,Manager,E1058,2016-07-28,,Active,B1,0,,Clean
+E1475,David,Braun,david.braun475@example-company.com,,2,Professional,E1133,2015-12-25,2021-08-18,Terminated,B3,1,DQ03,Needs review
+E1338,Tim,Wolf,tim.wolf338@example-company.com,5,3,Senior,E1060,2015-12-26,2019-11-22,Terminated,B5,0,,Clean
+E1539,Tim,Werner,tim.werner539@example-company.com,9,1,Lead,E1064,2024-10-18,2026-09-30,Terminated,B1,0,,Clean
+E1505,Noah,Zimmermann,noah.zimmermann505@example-company.com,5,2,Senior,E1033,2014-04-07,,Active,B4,0,,Clean
+E1399,Erik,Peters,erik.peters399@example-company.com,3,3,Manager,E1027,2017-10-24,,Active,B1,0,,Clean
+E1424,Ben,Hoffmann,ben.hoffmann424@example-company.com,8,4,Junior,E1046,2016-03-13,,Active,B5,0,,Clean
+E1481,Clara,Werner,clara.werner481@example-company.com,6,2,Senior,E1106,2014-04-18,,Active,B3,0,,Clean
+E1423,Omar,Werner,omar.werner423@example-company.com,8,1,Senior,E9197,2021-09-18,2026-06-21,Terminated,B2,1,DQ12,Needs review
+E1120,Laura,Lange,laura.lange120@example-company.com,9,3,Professional,E1036,2020-06-15,2019-03-01,Terminated,B3,1,DQ09,Needs review
+E1257,Nina,Koch,,3,2,Senior,E1052,2013-02-24,,Active,B4,1,DQ01,Needs review
+E1250,Clara,Hartmann,clara.hartmann250@example-company.com,5,4,Senior,E1024,2022-02-06,,Active,B5,0,,Clean
