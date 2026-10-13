@@ -1,0 +1,15 @@
+check_id,dimension,severity,description,owner,failed_records_before,failed_records_after,pass_rate_before_pct,pass_rate_after_pct,resolution
+DQ01,Completeness,Medium,Employee email is missing,HR Operations,27,25,95.6,95.8,Sent to data owner for review
+DQ02,Completeness,High,Hire date is missing,HR Operations,12,12,98.0,98.0,Sent to data owner for review
+DQ03,Completeness,High,Department is missing,HR Systems,10,10,98.4,98.3,Sent to data owner for review
+DQ04,Uniqueness,High,Duplicate employee_id (same key appears more than once),HR Systems,5,0,99.2,100.0,Auto-fixed by script
+DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,15,0,97.6,100.0,Auto-fixed by script
+DQ06,Validity,High,Hire date is in the future,HR Operations,11,10,98.2,98.3,Sent to data owner for review
+DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,10,10,98.4,98.3,Sent to data owner for review
+DQ08,Validity,Low,Job level is not a standard value,HR Systems,21,0,96.6,100.0,Auto-fixed by script
+DQ09,Consistency,High,Termination date is before hire date,HR Operations,13,13,97.9,97.8,Sent to data owner for review
+DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,12,12,98.0,98.0,Sent to data owner for review
+DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,10,10,98.4,98.3,Sent to data owner for review
+DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,16,15,97.4,97.5,Sent to data owner for review
+DQ13,Integrity,Medium,Employee is listed as their own manager,HR Systems,6,6,99.0,99.0,Sent to data owner for review
+DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,8,8,98.7,98.7,Sent to data owner for review

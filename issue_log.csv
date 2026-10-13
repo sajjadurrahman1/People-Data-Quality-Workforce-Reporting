@@ -1,0 +1,177 @@
+issue_id,employee_id,check_id,dimension,severity,description,owner,status,raised_date
+ISS-0001,E1073,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0002,E1165,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0003,E1171,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0004,E1200,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0005,E1292,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0006,E1344,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0007,E1371,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0008,E1478,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0009,E1498,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0010,E1566,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0011,E1582,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0012,E1593,DQ02,Completeness,High,Hire date is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0013,E1197,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0014,E1206,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0015,E1222,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0016,E1234,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0017,E1260,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0018,E1342,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0019,E1475,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0020,E1524,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0021,E1561,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0022,E1583,DQ03,Completeness,High,Department is missing,HR Systems,Open - owner review,2026-10-13
+ISS-0023,E1001,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0024,E1020,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0025,E1202,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0026,E1284,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0027,E1319,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0028,E1398,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0029,E1411,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0030,E1490,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0031,E1548,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0032,E1591,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0033,E2009,DQ06,Validity,High,Hire date is in the future,HR Operations,Open - owner review,2026-10-13
+ISS-0034,E1020,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0035,E1036,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0036,E1049,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0037,E1074,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0038,E1104,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0039,E1120,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0040,E1168,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0041,E1310,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0042,E1353,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0043,E1354,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0044,E1451,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0045,E1549,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0046,E1579,DQ09,Consistency,High,Termination date is before hire date,HR Operations,Open - owner review,2026-10-13
+ISS-0047,E1036,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0048,E1111,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0049,E1119,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0050,E1145,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0051,E1203,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0052,E1217,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0053,E1227,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0054,E1286,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0055,E1435,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0056,E1544,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0057,E1549,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0058,E1596,DQ10,Consistency,High,Active / On Leave employee has a termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0059,E1015,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0060,E1057,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0061,E1069,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0062,E1081,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0063,E1090,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0064,E1242,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0065,E1255,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0066,E1421,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0067,E1535,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0068,E1564,DQ11,Consistency,High,Terminated employee has no termination date,HR Operations,Open - owner review,2026-10-13
+ISS-0069,E1063,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0070,E1103,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0071,E1113,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0072,E1264,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0073,E1337,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0074,E1407,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0075,E1485,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0076,E1538,DQ14,Integrity,High,Department ID does not exist in departments table,HR Systems,Open - owner review,2026-10-13
+ISS-0077,E1022,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0078,E1041,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0079,E1110,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0080,E1129,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0081,E1138,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0082,E1158,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0083,E1195,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0084,E1198,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0085,E1239,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0086,E1257,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0087,E1302,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0088,E1325,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0089,E1356,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0090,E1367,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0091,E1387,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0092,E1449,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0093,E1450,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0094,E1497,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0095,E1500,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0096,E1502,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0097,E1550,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0098,E1556,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0099,E1572,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0100,E1573,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0101,E1581,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0102,E2005,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0103,E2012,DQ01,Completeness,Medium,Employee email is missing,HR Operations,Open - owner review,2026-10-13
+ISS-0104,E1060,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0105,E1153,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0106,E1162,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0107,E1167,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0108,E1191,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0109,E1265,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0110,E1377,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0111,E1384,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0112,E1532,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0113,E1590,DQ07,Validity,Medium,Email format is invalid (no @ sign),HR Operations,Open - owner review,2026-10-13
+ISS-0114,E1048,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0115,E1068,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0116,E1085,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0117,E1093,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0118,E1116,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0119,E1122,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0120,E1226,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0121,E1258,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0122,E1273,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0123,E1314,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0124,E1359,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0125,E1423,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0126,E1431,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0127,E1452,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0128,E1484,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0129,E2013,DQ12,Integrity,Medium,Manager ID does not exist in the employee table,HR Systems,Open - owner review,2026-10-13
+ISS-0130,E1221,DQ13,Integrity,Medium,Employee is listed as their own manager,HR Systems,Open - owner review,2026-10-13
+ISS-0131,E1280,DQ13,Integrity,Medium,Employee is listed as their own manager,HR Systems,Open - owner review,2026-10-13
+ISS-0132,E1350,DQ13,Integrity,Medium,Employee is listed as their own manager,HR Systems,Open - owner review,2026-10-13
+ISS-0133,E1388,DQ13,Integrity,Medium,Employee is listed as their own manager,HR Systems,Open - owner review,2026-10-13
+ISS-0134,E1408,DQ13,Integrity,Medium,Employee is listed as their own manager,HR Systems,Open - owner review,2026-10-13
+ISS-0135,E1425,DQ13,Integrity,Medium,Employee is listed as their own manager,HR Systems,Open - owner review,2026-10-13
+ISS-0136,E1199,DQ04,Uniqueness,High,Duplicate employee_id (same key appears more than once),HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0137,E1219,DQ04,Uniqueness,High,Duplicate employee_id (same key appears more than once),HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0138,E1365,DQ04,Uniqueness,High,Duplicate employee_id (same key appears more than once),HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0139,E1474,DQ04,Uniqueness,High,Duplicate employee_id (same key appears more than once),HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0140,E1588,DQ04,Uniqueness,High,Duplicate employee_id (same key appears more than once),HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0141,E2000,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0142,E2001,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0143,E2002,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0144,E2003,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0145,E2004,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0146,E2005,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0147,E2006,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0148,E2007,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0149,E2008,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0150,E2009,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0151,E2010,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0152,E2011,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0153,E2012,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0154,E2013,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0155,E2014,DQ05,Uniqueness,High,"Probable duplicate person (same name, hire date and department, different ID)",HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0156,E1002,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0157,E1014,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0158,E1026,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0159,E1209,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0160,E1238,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0161,E1249,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0162,E1279,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0163,E1311,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0164,E1343,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0165,E1361,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0166,E1381,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0167,E1403,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0168,E1429,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0169,E1432,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0170,E1514,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0171,E1516,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0172,E1527,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0173,E1557,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0174,E1568,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0175,E1595,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
+ISS-0176,E2014,DQ08,Validity,Low,Job level is not a standard value,HR Systems,Resolved (auto-fix),2026-10-13
